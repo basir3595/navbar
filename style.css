@@ -1,0 +1,30 @@
+h3{
+    font-weight: bolder;
+}
+.ad{
+    min-height:10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2px;
+}
+.b{
+    border: 1px dotted magenta;
+
+}
+p{
+    text-align: justify;
+}
+
+
+.dd{
+    width: 200px;
+    margin: 5px;
+}
+.my-link-syle:hover{
+    text-decoration: underline;
+}
+.add{
+    margin-left: auto;
+}
+
